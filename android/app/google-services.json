@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001841522192",
+    "project_id": "hotelbookingsystem-28135",
+    "storage_bucket": "hotelbookingsystem-28135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001841522192:android:bbc307eea62756526c3c95",
+        "android_client_info": {
+          "package_name": "com.example.hotel_booking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMrwMTzIKVJgKlnHwTz8RYZIoxh8bBhZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
