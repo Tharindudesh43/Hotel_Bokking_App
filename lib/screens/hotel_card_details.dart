@@ -447,6 +447,9 @@ class HotelCardDetails {
                                   )
                                 ],
                               ),
+                              SizedBox(
+                                height: 100,
+                              )
                             ],
                           ),
                         ),
